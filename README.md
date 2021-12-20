@@ -7,8 +7,11 @@ The scraping of Twitter data is done using the Twitter API and processed to get 
 
 TECH STACK:
 
-*Python
-*Twitter API
-*NetworkX
-*iGraph
-*Community Detection Algorithms
+* Python
+* Twitter API
+* NetworkX
+* iGraph
+* Community Detection Algorithms
+
+The data for the project is obtained by scraping real time user Twitter data using Tweepy and Twitter API. Use of the Twitter API is obtained by creating a twitter developer account and obtaining the authorization keys and secret keys (4 in total) for connecting and using the API. Crawling the data is a long process, and for a small user account it took exactly 2d 22h 43min 17s. Crawled data saved as a pickle file and can be used for analysis directly.
+![image](https://user-images.githubusercontent.com/56687825/146777642-5da9ae0d-9b87-49fd-825f-0f0f726223f7.png)
