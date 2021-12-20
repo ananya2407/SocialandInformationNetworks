@@ -1,5 +1,3 @@
-# Project_SocialandInformationNetworks
-
 ## Ananya Sajwan (18BCE1355)
 ## CSE3021 - Social and Information Networks (A1 Slot) J-Component Repository
 ## Twitter Followers Network Analysis and Recommendation model
