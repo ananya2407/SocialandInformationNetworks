@@ -1,10 +1,8 @@
 # Project_SocialInformationNetworks
 
-# Ananya Sajwan (18BCE1355)
-## CSE3021 - Social and Information Networks (A1 Slot)
-## J-Component Repository
-
-# Twitter Followers Network Analysis and Recommendation model
+## Ananya Sajwan (18BCE1355)
+## CSE3021 - Social and Information Networks (A1 Slot) J-Component Repository
+## Twitter Followers Network Analysis and Recommendation model
 
 Social media data from Twitter, Instagram, Facebook, etc. can be analysed using various social analysis models and techniques to gain insights and recommendations. The main aim of the project is to use Python and NetworkX to analyse Twitter communities and followers using social network analysis techniques and also provide recommendations for new followers on Twitter based on the Network Analysis.
 
